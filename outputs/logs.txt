@@ -1,0 +1,5 @@
+Simulation completed successfully.
+Scenario 1 output mean: 0.190
+Scenario 2 output mean: 0.920
+Scenario 1 max: 0.982, min: -0.982
+Scenario 2 max: 1.000, min: 0.000
