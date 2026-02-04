@@ -43,6 +43,6 @@ The project generates professional-quality artifacts suitable for inclusion in a
 - Designed to demonstrate capabilities aligned with software and systems engineering tasks, such as those in aerospace and defense programs
 - The methodology can be expanded to include stochastic inputs, multiple system configurations, or more complex modeling for advanced portfolio entries
 ## Author
-**Daniel J. Farley**  
+**Daniel J.**  
 Programmer / Analyst | Portfolio Artifact  
 
