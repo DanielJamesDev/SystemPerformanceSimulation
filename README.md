@@ -45,4 +45,4 @@ The project generates professional-quality artifacts suitable for inclusion in a
 ## Author
 **Daniel J. Farley**  
 Programmer / Analyst | Portfolio Artifact  
-dfarley78@gmail.com
+
